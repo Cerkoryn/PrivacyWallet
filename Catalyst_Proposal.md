@@ -1,8 +1,8 @@
-##### Introduction:
+### Introduction:
 
 The Cardano Foundation is dedicated to advancing the Cardano blockchain and supporting the development of new and innovative projects that enhance the capabilities of the Cardano ecosystem. In this spirit, we are proposing a project to develop a privacy wallet for Cardano that will provide users with enhanced security and privacy features.
 
-##### Objectives:
+### Objectives:
 
 The primary objective of this project is to develop a privacy wallet for the Cardano blockchain that will enable users to securely and privately manage their ADA and other assets. The wallet will be developed using cutting-edge privacy technologies and will be designed to be user-friendly and easy to use.
 
@@ -35,6 +35,6 @@ Budget:
 
 The total budget for this project is estimated at $500,000. This includes funding for the research and development of privacy technologies, the design and development of the wallet, testing and debugging, user documentation and support, and ongoing maintenance and support.
 
-##### Conclusion:
+### Conclusion:
 
 In conclusion, the development of a privacy wallet for the Cardano blockchain will provide significant benefits to users, enabling them to securely and privately manage their ADA and other assets. We believe that this project has the potential to be a major milestone for the Cardano ecosystem and we are excited to work with the Cardano Foundation to bring this vision to life.
