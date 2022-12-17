@@ -30,6 +30,7 @@ The open-source privacy wallet will provide the following functions:
  - Compliance with privacy regulations: The wallet will be compliant with GDPR, HIPAA, and the Privacy Act of 1974, as well as any other relevant privacy regulations.
  - Enhanced privacy and security: The wallet will incorporate Atala Prism and the Midnight sidechain to further enhance privacy and security.
  - Resistance to side-channel attacks: The wallet will be resistant to side-channel attacks that could reveal a user's identity.
+ - Utilize transaction chaining for greater speed and improved user experience.
 
 ###### 2.3. User Classes and Characteristics
 The open-source privacy wallet will be designed for all users who are interested in using a simple and easy-to-use wallet on the Cardano blockchain that provides strong privacy protections. The wallet will be accessible through a user-friendly interface, and will not require any specialized knowledge or technical expertise to use.
