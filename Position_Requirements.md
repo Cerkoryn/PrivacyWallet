@@ -1,3 +1,5 @@
+### THIS IS ALL SPECULATION.  TAKE WITH A HEAPING SPOONFUL OF SALT.
+
 #### Lead Developer: 
 The lead developer would be responsible for overseeing the development process, ensuring that the wallet is built on time and within budget. They would need strong experience with blockchain technology, particularly the Cardano blockchain and its associated programming languages, Haskell and Plutus. They would also need expertise in developing secure and private wallets. The average salary for a lead developer is around $115,000 per year.
 
