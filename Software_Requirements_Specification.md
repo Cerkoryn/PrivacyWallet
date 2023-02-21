@@ -1,3 +1,5 @@
+### BELOW IS STILL VERY MUCH A WIP.
+
 #### 1. Introduction
 ###### 1.1. Purpose
 The open-source privacy wallet on the Cardano blockchain offers users a simple and easy-to-use solution for managing their transactions and personal information in a private and secure manner. Unlike mixer services, which have been stigmatized as tools for criminal activity, a privacy wallet offers a much more positive perspective on privacy. This is because a wallet is a personal and decentralized tool that allows individuals to take control of their own privacy, rather than relying on a third-party service to protect their information. Additionally, the wallet's cross-chain compatibility, compliance with privacy regulations, and resistance to side-channel attacks ensures that users' personal information is protected, even when making transactions on the blockchain. This not only protects users' privacy, but also helps to mitigate the stigma surrounding private transactions on the blockchain.
